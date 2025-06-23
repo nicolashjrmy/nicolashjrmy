@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**nicolashjrmy/nicolashjrmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi there, I'm Nicolash Jeremy!
 
 🚀 Currently working as a Backend Developer. Always seeking out new things to learn and build. Casual Dota Enjoyer
@@ -27,15 +10,12 @@ Here are some ideas to get you started:
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
 ![Hono.js](https://img.shields.io/badge/Hono.js-000000?style=flat&logo=cloudflare&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Elastic Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white)  
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-563D7C?style=flat)
-
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) 
 
