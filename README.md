@@ -20,7 +20,7 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) 
 
 ## 📈 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=nicolashjrmy&color=blue)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashjrmy&layout=compact&theme=radical)
 
 
