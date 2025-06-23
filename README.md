@@ -21,7 +21,7 @@
 
 ## 📈 GitHub Stats
 
-![Nicolash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolashjeremy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashjeremy&layout=compact&theme=radical)
+![Nicolash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolashjrmy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashjrmy&layout=compact&theme=radical)
 
 
