@@ -20,8 +20,7 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) 
 
 ## 📈 GitHub Stats
-
-![Nicolash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolashjrmy&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=nicolashjrmy&color=blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashjrmy&layout=compact&theme=radical)
 
 
